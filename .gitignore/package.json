@@ -1,1 +1,11 @@
-
+{
+  "name": "jeff-probst",
+  "version": "1.0.0",
+  "description": "Jeff !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jalab'",
+  "license": "ISC"
+}
