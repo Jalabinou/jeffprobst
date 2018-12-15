@@ -6,5 +6,5 @@ bot.on("ready", () => {
     console.log("Bot ready !");
 });
 
-bot.login("NTIyNDk1NzQ5Mzg1MDkzMTIx.DvWbTw.Ecg1RE7p4Y83y2euoZzEoaSIEVs");
+bot.login(process.env.TOKEN);
 
