@@ -8,7 +8,7 @@
   },
   "author": "Jalab'",
   "license": "ISC"
-  "dependecies": {
-  "discord.js": "^11.2.1"
+  "dependencies": {
+    "discord.js": "^11.2.1"
   }
 }
